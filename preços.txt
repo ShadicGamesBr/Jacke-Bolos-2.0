@@ -1,0 +1,25 @@
+1- 20	bolo de cenoura
+2- 30	bolo de leite ninho
+3- 30	bolo de cenoura com cobertura de chocolate
+4- 20	bolo de fubá com goiaba
+5- 30	bolo de iogurte
+6- 20	bolo de coco
+7- 20	bolo de fubá
+8- 20	bolo de fubá com erva doce
+9- 20	bolo de cenoura mesclado com chocolate
+10- 20	bolo de café	
+11- 30	bolo de banana com canela
+12- 30	bolo de amendoin com ninho
+13- 30	bolo de limão com musse
+14-30	bolo de laranja com musse
+
+
+pequenos
+15 do preço de 20
+25 do preço de 30
+
+(-5 para cada um) 
+
+colocar nomes
+
+colocar redes sociais
