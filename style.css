@@ -42,10 +42,6 @@ body{
     font-family: "fonte principal";
     src: url(Fontes/SourceSansPro-Bold.ttf);
 }
-@font-face {
-    font-family: "fonte item";
-    src: url(Fontes/GloriaHallelujah-Regular.ttf);
-}
 h1{
     color: white;
     font-size: 2.5em;
@@ -123,7 +119,7 @@ h1{
     background-color: #132730b0;
     border-radius: 10px;
     padding: 10px;
-    font-size: 3em; 
+    font-size: 3em;
 }
 header> picture> a > img{
     height: 200px;
