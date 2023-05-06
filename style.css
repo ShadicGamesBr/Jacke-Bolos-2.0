@@ -11,15 +11,18 @@
 
 }
 body{
-    background-image: radial-gradient(#9fbbc9, #343e42);
     text-align: center;
-    background-size: 100hv;
+    background-image: url(imagens/Background.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #slogan{
     animation-name: animado;
     animation-duration: 20s;
     animation-timing-function: linear;
     animation-delay: 1s;
+    
     animation-direction: alternate;
     animation-fill-mode: both;
     animation-iteration-count: infinite;
@@ -37,7 +40,7 @@ body{
 }
 @font-face {
     font-family: "fonte principal";
-    src: url(Fontes/Khamden\ Script\ Regular.ttf);
+    src: url(Fontes/SourceSansPro-Bold.ttf);
 }
 @font-face {
     font-family: "fonte item";
@@ -107,8 +110,8 @@ section> span{
 a{
     font-family: fonte principal;
     text-decoration: none;
-    color: #90b2c2;
-    font-size: 2.4em;
+    color: #ffffff;
+    font-size: 2em;
     margin: 20px
 }
 a:hover{
@@ -132,7 +135,7 @@ header> picture> a > img{
 header> picture > p{
     position: relative;
     color: white;
-    font-size: 1.7em;
+    font-size: 1.3em;
     font-family: "fonte principal";
 }
 header > picture{
