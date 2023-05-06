@@ -10,6 +10,9 @@
 
 
 }
+footer{
+    text-align: center;
+}
 body{
     text-align: center;
     background-image: url(imagens/Background.png);
@@ -18,6 +21,7 @@ body{
     background-size: cover;
 }
 #slogan{
+    background-position: center center;
     height: 45%;
     width: 45%;
     animation-name: animado;
@@ -104,6 +108,9 @@ section> span{
     cursor: pointer;
     height: 50px;
     line-height: 50px;
+}
+#menus{
+    text-align: center;
 }
 a{
     font-family: fonte principal;
