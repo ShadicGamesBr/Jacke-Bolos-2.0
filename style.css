@@ -123,7 +123,7 @@ h1{
     background-color: #132730b0;
     border-radius: 10px;
     padding: 10px;
-    font-size: 3em;
+    font-size: 3em; 
 }
 header> picture> a > img{
     height: 200px;
