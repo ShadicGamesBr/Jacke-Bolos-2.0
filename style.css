@@ -13,6 +13,10 @@
 footer{
     text-align: center;
 }
+picture > source{
+    height: 50%;
+    width: 50%;
+}
 body{
     text-align: center;
     background-image: url(imagens/Background.png);
