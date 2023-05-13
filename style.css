@@ -4,18 +4,9 @@
     --cor3: #7A909A;
     --cor4: #839BA6;
     --cor5: #B5D6E6;
-
-
-
-
-
 }
 footer{
     text-align: center;
-}
-picture > source{
-    height: 50%;
-    width: 50%;
 }
 body{
     text-align: center;
