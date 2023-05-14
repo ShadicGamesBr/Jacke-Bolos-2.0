@@ -1,16 +1,16 @@
 :root{
-    --cor1: #475359;
-    --cor2: #657780;
-    --cor3: #7A909A;
-    --cor4: #839BA6;
-    --cor5: #B5D6E6;
+    --cor1: #ACCCDC;
+    --cor2: #B5D7E8;
+    --cor3: #48555C;
+    --cor4: #79909C;
+    --cor5: #97B4C2;
 }
 footer{
     text-align: center;
 }
 body{
     text-align: center;
-    background-image: url(imagens/Background.png);
+    background-image: radial-gradient(circle, #ACCCDC, #48555C);
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -27,6 +27,10 @@ body{
     animation-direction: alternate;
     animation-fill-mode: both;
     animation-iteration-count: infinite;
+}
+#whats:hover{
+    transition: 0.1s ease-in-out;
+    transform: scale(1.05);
 }
 @keyframes animado{
     0%{
@@ -63,6 +67,7 @@ h1{
     height: 75px;
     cursor: pointer;
 }
+
 #instagram:hover{
     transition: 0.1s ease-in-out;
     scale: 1.1;
