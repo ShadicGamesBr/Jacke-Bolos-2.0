@@ -144,7 +144,6 @@ header> picture> a > img{
     cursor: pointer;
 }
 header> picture > p{
-    position: relative;
     color: white;
     font-size: 1.3em;
     font-family: "fonte principal";
