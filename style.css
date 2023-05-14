@@ -28,6 +28,12 @@ body{
     animation-fill-mode: both;
     animation-iteration-count: infinite;
 }
+#slogan_pq{
+    scale: 1.5;
+}
+#whats{
+    scale: 90vh;
+}
 #whats:hover{
     transition: 0.1s ease-in-out;
     transform: scale(1.05);
